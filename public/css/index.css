@@ -1,0 +1,28 @@
+body{
+	font-family: "微软雅黑";
+}
+.begin{
+	width:128px;
+	margin: 0 auto;
+}
+#begin{
+	position: absolute;
+	border: 1px solid #177cb0;
+	box-shadow: 1px 1px 50px #177cb0;
+	font-weight: bolder;
+	background: #177cb0;
+	border-radius: 8rem;
+	opacity: 0.7;
+	cursor: pointer;
+	width: 8rem;
+	height: 8rem;
+	font-size: 16px;
+	color: white;
+	outline: none;
+	transition: all .2s linear .02s;
+	/*top: 45%;*/
+}
+#begin:hover{
+	opacity: 1;
+	transform: rotate(360deg);
+}

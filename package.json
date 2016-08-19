@@ -1,0 +1,23 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "开发新功能",
+  "homepage":"apps.gristar.cn",
+  "repository ":"git",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "webpack",
+    "demo"
+  ],
+  "author": "陈胜",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
