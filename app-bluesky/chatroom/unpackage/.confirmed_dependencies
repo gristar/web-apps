@@ -1,0 +1,176 @@
+{
+  "im-chat.html": {
+    "resources": [
+      "js/mui.imageViewer.js",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.imageviewer.css",
+      "js/arttmpl.js",
+      "css_user/chat.css"
+    ],
+    "refer": []
+  },
+  "login.html": {
+    "resources": [
+      "js/jquery1.11.3.min.js",
+      "js/app.js",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/style.css",
+      "js/mui.enterfocus.js",
+      "js/md5.js"
+    ],
+    "refer": [
+      "im-chat.html"
+    ]
+  },
+  "res_user/main.html": {
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "js_user/main.js",
+      "css/mui.min.css",
+      "js_user/quit.js",
+      "fonts/mui.ttf",
+      "images/cbd.jpg",
+      "images/muwu.jpg",
+      "images/shuijiao.jpg",
+      "css_user/main.css",
+      "js/jquery1.11.3.min.js",
+      "images_user/0001.jpg"
+    ],
+    "refer": [
+      "res_user/detail.html"
+    ]
+  },
+  "res_user/index.html": {
+    "resources": [
+      "res_user/main.html",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js_user/index.js",
+      "js/jquery1.11.3.min.js",
+      "js_user/quit.js"
+    ],
+    "refer": [
+      "res_user/main.html",
+      "res_user/nav-me.html",
+      "setting.html",
+      "res_user/webview_mask_side.html",
+      "res_user/setting.html",
+      "res_user/mq-chat.html"
+    ]
+  },
+  "res_user/nav-me.html": {
+    "resources": [
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "css_user/nav-me.css",
+      "images_user/head/head-0001.jpg",
+      "images_user/background/background-0001.jpg",
+      "js_user/nav-me.js",
+      "js/app.js",
+      "js/jquery1.11.3.min.js"
+    ],
+    "refer": [
+      "res_user/login.html"
+    ]
+  },
+  "setting.html": {
+    "resources": [
+      "js/app.js",
+      "libs/easymob-webim-sdk/easemob.im-1.0.5.js",
+      "libs/easymob-webim-sdk/json2.js",
+      "libs/easymob-webim-sdk/jquery-1.11.1.js",
+      "js/mui.locker.js",
+      "js/feedback.js",
+      "css/feedback-page.css",
+      "js/feedback-page.js",
+      "libs/easymob-webim-sdk/strophe-custom-2.0.0.js",
+      "js/mui.view.js"
+    ],
+    "refer": []
+  },
+  "res_user/login.html": {
+    "resources": [
+      "js/jquery1.11.3.min.js",
+      "css_user/login.css",
+      "js/mui.min.js",
+      "js_user/login.js",
+      "css/mui.min.css",
+      "css/style.css",
+      "js_user/user.js",
+      "js/mui.enterfocus.js",
+      "js/md5.js",
+      "images/sinaweibo.png",
+      "images/weixin.png",
+      "images/qq.png",
+      "fonts/mui.ttf"
+    ],
+    "refer": [
+      "res_user/index.html",
+      "res_user/reg.html",
+      "res_user/forget_password.html"
+    ]
+  },
+  "res_user/mq-chat.html": {
+    "resources": [
+      "js/jquery1.11.3.min.js",
+      "js/amq.js",
+      "js/app.js",
+      "res_user/%3C%\u003d(item.content)%%3E",
+      "images/logo.png",
+      "css/app.css",
+      "css/mui.imageviewer.css",
+      "js/amq_jquery_adapter.js",
+      "css_user/chat.css",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js_user/mq-chat.js",
+      "js/mui.imageViewer.js",
+      "js/arttmpl.js"
+    ]
+  },
+  "res_user/reg.html": {
+    "resources": [
+      "css_user/reg.css",
+      "js/jquery1.11.3.min.js",
+      "js/app.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "js_user/reg.js",
+      "css/mui.min.css",
+      "css/style.css",
+      "js/md5.js"
+    ]
+  },
+  "res_user/forget_password.html": {
+    "resources": [
+      "js_user/forget_password.js",
+      "css_user/forget_password.css",
+      "js/app.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "css/style.css",
+      "js_user/user.js",
+      "js/jquery1.11.3.min.js"
+    ]
+  },
+  "res_user/detail.html": {
+    "resources": [
+      "js_user/detail.js",
+      "js/jquery1.11.3.min.js",
+      "js/app.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "css_user/main.css",
+      "js_user/quit.js",
+      "css_user/detail.css"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+ul,ol {
+	list-style: outside none none;
+}
+
+img,table {
+	vertical-align: bottom;
+	width: 100%;
+}
+
+#Cnt-Main-Article-QQ {
+	font-size: 18px;
+	line-height: 28px;
+	padding-bottom: 2px;
+	padding-top: 10px;
+	padding-left: 8px;
+	padding-right: 6px;
+}
+
+#Cnt-Main-Article-QQ p {
+	font-size: 16px;
+	color: black;
+}
+
+.u-content-bar{
+	margin-top: 13px;
+	font-size: 18px;
+	line-height: 28px;
+	border-bottom: 1px solid #dbdbdb;
+	margin-left: 8px;
+	margin-right: 6px;
+	padding-bottom: 4px;
+}
+
+.u-content-title{
+	display: block;
+}
+
+.u-content-from{
+	color: gray;
+	font-size: 16px;
+	margin-right: 8px;
+}
+
+.u-content-time{
+	color: gray;
+	font-size: 16px;
+}

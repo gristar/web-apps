@@ -1,0 +1,85 @@
+/*ul {
+	font-size: 14px;
+	color: #8f8f94;
+}
+
+.mui-btn {
+	padding: 10px;
+}*/
+
+.mui-table-view .mui-media-object {
+	height: 60px !important;
+	max-width: 60px !important;
+}
+
+.mui-table-view-cell p {
+	max-height: 45px !important;
+}
+
+.mui-ellipsis {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: normal !important;
+}
+
+.mui-control-content {
+	background-color: white;
+	min-height: 800px;
+}
+
+.mui-control-content .mui-loading {
+	margin-top: 50px;
+}
+
+.u-nav-div {
+	position: fixed !important;
+	/*top: 44px;*/
+	z-index: 2;
+	font-size: 18px !important;
+	color: #777777;
+	background-color: #F4F4F4;
+	height: 48px;
+}
+
+.u-slider-group {
+	margin-top: 48px;
+	margin-bottom: -2px;
+}
+
+.mui-control-item {
+	line-height: 48px !important;
+}
+
+.u-sliderProgressBar {
+	/*margin-bottom: -37px;*/
+	margin-top: 48px;
+	z-index: 3 !important;
+	position: fixed;
+}
+
+.u-refresh-time {
+	color: gray;
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+.u-joke-img {
+	max-width: 100%;
+}
+
+.u-joke-li p {
+	font-size: 16px;
+	color: black;
+	line-height: 29px;
+}
+
+.u-joke-li {
+	/*border-bottom: 1px solid gray;*/
+	margin:10px 18px 20px 18px ;
+	/*box-shadow: 2px 4px 9px gray;*/
+	padding: 10px 10px 20px 10px;
+	border: 1px solid #BFBFBF;
+	background-color: white;
+	box-shadow: 2px 2px 3px #aaaaaa;
+}

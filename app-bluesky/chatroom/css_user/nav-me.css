@@ -1,0 +1,51 @@
+html,
+body {
+	background-color: #efeff4;
+}
+
+.title {
+	margin: 20px 15px 10px;
+	color: #6d6d72;
+	font-size: 15px;
+}
+
+.mui-content {
+	/*margin-top: -17px;*/
+}
+
+.u-me-header {
+	height: 215px;
+	background-image: url(../images_user/background/background-0001.jpg);
+	background-size: 100% 100%;
+	padding-top: 4%;
+}
+
+.u-me-header dt{
+	text-align: center;
+	margin-top: 3px;
+}
+
+.u-me-sign-div {
+  border: 1px solid #F5F5F5;
+  border-radius: 50px;
+  display: inline-block;
+  margin: auto;
+  color: #F5F5F5;
+  padding: 1px 7px;
+}
+
+.u-me-header-photo {
+	/*margin-top: 10px;*/
+}
+
+.u-me-photo-div {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	/*border: solid rgb(100, 100, 100) 1px;*/
+	background-image: url(../images_user/head/head-0001.jpg);
+	background-size: 100% 100%;
+}
+
